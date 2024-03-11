@@ -3,6 +3,7 @@ name: Visualize SRA Data
 on:
   schedule:
     - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch:
 
 jobs:
   visualize-and-commit:
