@@ -2,7 +2,7 @@
 
 I made this plot for my QE presentation and thought it might be useful for others in presentations/publications/etc.
 
-**updated on: 2024-03-26**
+**updated on: 2024-03-27**
 
 
 ![SRA Data Growth](sra_data_growth.png)
